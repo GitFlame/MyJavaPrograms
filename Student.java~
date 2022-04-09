@@ -1,0 +1,25 @@
+public class Student 
+{
+ String studentName;
+ int admissionNo;
+ String branch;
+ int rollNo;
+ char section;
+ long mobileNo;
+ byte year;
+ float fee;
+ char gender;
+ String emailId;
+ 
+public String displayName(){
+ String name = "Rajnish";
+ return name;
+      }
+	  
+public static void main(String ar[]){
+ Student student  = new student();
+  String MyName = student.displayName();
+  System.out.println("my name is :" +MyName);
+  }  
+  
+}
