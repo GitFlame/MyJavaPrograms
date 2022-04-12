@@ -1,1 +1,1 @@
-There are some basi java programs..
+There are some basic java programs..
